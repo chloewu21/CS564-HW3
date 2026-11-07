@@ -1,0 +1,25 @@
+#pragma once
+
+#include "buffer_manager.h"
+
+namespace minirel {
+
+/**
+ * @brief Buffer manager using the least recently used (LRU) replacement policy.
+ * Please refer to the writeup for a more detailed description of the LRU
+ * replacement policy.
+ */
+class LRUBufferManager : public BufferManager {
+ public:
+  explicit LRUBufferManager(std::size_t num_frames);
+  ~LRUBufferManager() override;
+
+  [[nodiscard]] Status read_page(File* file, int page_no, Page*& page) override;
+  [[nodiscard]] Status unpin_page(File* file, int page_no, bool dirty) override;
+  [[nodiscard]] Status alloc_page(File* file, int& page_no, Page*& page) override;
+  [[nodiscard]] Status flush_file(const File* file) override;
+  [[nodiscard]] Status dispose_page(File* file, int page_no) override;
+  void print_self() const override;
+};
+
+}  // namespace minirel
