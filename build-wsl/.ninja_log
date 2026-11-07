@@ -34,3 +34,21 @@
 44672	54445	1794081319475398800	lru_buffer_manager_test	417bf3e350ef56dc
 44672	54445	1794081319475398800	lru_buffer_manager_test[1]_tests.cmake	417bf3e350ef56dc
 44672	54445	1794081319475398800	/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-wsl/lru_buffer_manager_test[1]_tests.cmake	417bf3e350ef56dc
+1151	6312	1794083070831105300	CMakeFiles/benchmark.dir/benchmark/benchmark.cpp.o	7cef387cd8a4a992
+1124	6374	1794083070842322500	CMakeFiles/buffer_manager.dir/src/clock_buffer_manager.cpp.o	f32ceb4a80ac9f42
+6397	8606	1794083073101232500	libbuffer_manager.a	51f28244cc844f09
+8611	11075	1794083075511812700	benchmark	fe43aece6a4c7d41
+1142	17428	1794083082391491100	CMakeFiles/clock_buffer_manager_test.dir/test/clock_buffer_manager_test.cpp.o	ed4d5bdfc9e90f0d
+1132	19712	1794083084628454200	CMakeFiles/lru_buffer_manager_test.dir/test/lru_buffer_manager_test.cpp.o	4fe2809290207589
+17446	24180	1794083089016127200	clock_buffer_manager_test	55ac498cb1cbd8e1
+17446	24180	1794083089016127200	clock_buffer_manager_test[1]_tests.cmake	55ac498cb1cbd8e1
+17446	24180	1794083089016127200	/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-wsl/clock_buffer_manager_test[1]_tests.cmake	55ac498cb1cbd8e1
+19728	26002	1794083090791277300	lru_buffer_manager_test	417bf3e350ef56dc
+19728	26002	1794083090791277300	lru_buffer_manager_test[1]_tests.cmake	417bf3e350ef56dc
+19728	26002	1794083090791277300	/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-wsl/lru_buffer_manager_test[1]_tests.cmake	417bf3e350ef56dc
+1379	32100	1794083213260578100	CMakeFiles/clock_buffer_manager_test.dir/test/clock_buffer_manager_test.cpp.o	ed4d5bdfc9e90f0d
+32146	38719	1794083219724429500	clock_buffer_manager_test	55ac498cb1cbd8e1
+32146	38719	1794083219724429500	clock_buffer_manager_test[1]_tests.cmake	55ac498cb1cbd8e1
+32146	38719	1794083219724429500	/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-wsl/clock_buffer_manager_test[1]_tests.cmake	55ac498cb1cbd8e1
+99	298	0	CMakeFiles/submit	f0923e1c06b3408f
+99	298	0	/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-wsl/CMakeFiles/submit	f0923e1c06b3408f

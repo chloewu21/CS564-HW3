@@ -1,7 +1,7 @@
 #pragma once
 
 #include "buffer_manager.h"
-#include <list>
+#include <vector>
 
 namespace minirel {
 
@@ -30,8 +30,9 @@ class ClockBufferManager : public BufferManager {
 
   private:
     PageTable page_table_; // maps page keys to frame IDs
-    std::list<FrameId> lru_list_; // list of frames with pin count = 0 in oldest to newest order
-    Status acquire_frame(FrameId& frame_id); // find an empty frame or evict oldest unpinned frame
+    std::vector<int> ref_bits_; // reference bits for each frame in the buffer pool
+    FrameId clock_hand_ = 0; // index of next frame to check
+    Status acquire_frame(FrameId& frame_id); // find and acquire frame
 };
 
 }  // namespace minirel
