@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-wsl/clock_buffer_manager_test[1]_tests.cmake")
+  include("/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-wsl/clock_buffer_manager_test[1]_tests.cmake")
+else()
+  add_test(clock_buffer_manager_test_NOT_BUILT clock_buffer_manager_test_NOT_BUILT)
+endif()

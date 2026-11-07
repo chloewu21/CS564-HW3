@@ -1,6 +1,7 @@
 #pragma once
 
 #include "buffer_manager.h"
+#include <list>
 
 namespace minirel {
 
@@ -20,6 +21,11 @@ class LRUBufferManager : public BufferManager {
   [[nodiscard]] Status flush_file(const File* file) override;
   [[nodiscard]] Status dispose_page(File* file, int page_no) override;
   void print_self() const override;
+
+  private:
+    PageTable page_table_; // maps page keys to frame IDs
+    std::list<FrameId> lru_list_; // list of unpinned frames in oldest to newest order
+    Status acquire_frame(FrameId& frame_id); // find an empty frame or evict oldest unpinned frame
 };
 
 }  // namespace minirel

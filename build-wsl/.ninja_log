@@ -1,0 +1,36 @@
+# ninja log v5
+371	5151	1794081064847998800	CMakeFiles/buffer_manager.dir/src/status.cpp.o	fd9ac41f8a833e72
+380	6403	1794081065035969400	CMakeFiles/buffer_manager.dir/src/file.cpp.o	706d4ea605099aa3
+390	7377	1794081067043560900	CMakeFiles/buffer_manager.dir/src/buffer_manager.cpp.o	66acc05f4405a669
+400	7762	1794081067409464600	CMakeFiles/buffer_manager.dir/src/clock_buffer_manager.cpp.o	f32ceb4a80ac9f42
+408	9436	1794081069071333300	CMakeFiles/buffer_manager.dir/src/lru_buffer_manager.cpp.o	7fb113e5676ae18a
+438	9959	1794081069579871100	CMakeFiles/benchmark.dir/benchmark/benchmark.cpp.o	7cef387cd8a4a992
+9480	13159	1794081072781449600	libbuffer_manager.a	51f28244cc844f09
+13169	16750	1794081076303913500	benchmark	fe43aece6a4c7d41
+555	18446	1794081078381049800	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	6741e2e71b121a
+425	23989	1794081083857298300	CMakeFiles/clock_buffer_manager_test.dir/test/clock_buffer_manager_test.cpp.o	ed4d5bdfc9e90f0d
+416	25296	1794081085148795300	CMakeFiles/lru_buffer_manager_test.dir/test/lru_buffer_manager_test.cpp.o	4fe2809290207589
+485	26847	1794081086673253100	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	b89311336072725e
+451	29066	1794081088850774500	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	f1daa295aeddbb61
+524	34637	1794081094339080800	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	f2ec037831173522
+34695	39785	1794081099455838900	lib/libgtest.a	e21429778cf18d0f
+39800	40162	1794081099834401000	lib/libgtest_main.a	30ececf4ed42069a
+39794	42550	1794081102187924000	lib/libgmock.a	aed9b9110c6e7301
+42558	42983	1794081102618402600	lib/libgmock_main.a	685aef476c43eaae
+40173	47824	1794081107398062900	clock_buffer_manager_test	55ac498cb1cbd8e1
+40173	47824	1794081107398062900	clock_buffer_manager_test[1]_tests.cmake	55ac498cb1cbd8e1
+40173	47824	1794081107398062900	/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-wsl/clock_buffer_manager_test[1]_tests.cmake	55ac498cb1cbd8e1
+40171	48003	1794081107565300600	lru_buffer_manager_test	417bf3e350ef56dc
+40171	48003	1794081107565300600	lru_buffer_manager_test[1]_tests.cmake	417bf3e350ef56dc
+40171	48003	1794081107565300600	/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-wsl/lru_buffer_manager_test[1]_tests.cmake	417bf3e350ef56dc
+1177	5424	1794081270694523500	CMakeFiles/buffer_manager.dir/src/lru_buffer_manager.cpp.o	7fb113e5676ae18a
+1192	5771	1794081271019837600	CMakeFiles/benchmark.dir/benchmark/benchmark.cpp.o	7cef387cd8a4a992
+5459	7458	1794081272714368500	libbuffer_manager.a	51f28244cc844f09
+7467	10649	1794081275845198500	benchmark	fe43aece6a4c7d41
+7464	16238	1794081281365542400	clock_buffer_manager_test	55ac498cb1cbd8e1
+7464	16238	1794081281365542400	clock_buffer_manager_test[1]_tests.cmake	55ac498cb1cbd8e1
+7464	16238	1794081281365542400	/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-wsl/clock_buffer_manager_test[1]_tests.cmake	55ac498cb1cbd8e1
+1184	44639	1794081309770772700	CMakeFiles/lru_buffer_manager_test.dir/test/lru_buffer_manager_test.cpp.o	4fe2809290207589
+44672	54445	1794081319475398800	lru_buffer_manager_test	417bf3e350ef56dc
+44672	54445	1794081319475398800	lru_buffer_manager_test[1]_tests.cmake	417bf3e350ef56dc
+44672	54445	1794081319475398800	/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-wsl/lru_buffer_manager_test[1]_tests.cmake	417bf3e350ef56dc
