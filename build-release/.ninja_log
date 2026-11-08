@@ -1,0 +1,13 @@
+# ninja log v5
+1997	2182	1794095793099162600	libbuffer_manager.a	51f28244cc844f09
+2493	3338	1794096406938172100	benchmark	9d521e1fd05b2722
+154	2461	1794096406085212300	CMakeFiles/benchmark.dir/benchmark/benchmark.cpp.o	2b429c77ece1c14f
+52	1985	1794095792891486700	CMakeFiles/buffer_manager.dir/src/lru_buffer_manager.cpp.o	4376051e15bd8fc7
+45	1459	1794095792366913400	CMakeFiles/buffer_manager.dir/src/file.cpp.o	8add4b126a863541
+50	1925	1794095792834344300	CMakeFiles/buffer_manager.dir/src/clock_buffer_manager.cpp.o	fb62c0ae3c81fa0a
+48	1386	1794095792290136500	CMakeFiles/buffer_manager.dir/src/buffer_manager.cpp.o	9b0b2abc5d0999ee
+42	1120	1794095792017184700	CMakeFiles/buffer_manager.dir/src/status.cpp.o	1441c1ed7fd21fcc
+106	1991	1794097596093111700	CMakeFiles/benchmark.dir/benchmark/benchmark.cpp.o	2b429c77ece1c14f
+2013	2587	1794097596679077000	benchmark	9d521e1fd05b2722
+175	1602	1794098842025858400	CMakeFiles/benchmark.dir/benchmark/benchmark.cpp.o	2b429c77ece1c14f
+1618	2044	1794098842461644500	benchmark	9d521e1fd05b2722

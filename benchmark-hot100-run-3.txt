@@ -1,0 +1,12 @@
+
+Benchmark 1: sequential scans
+LRU Buffer Manager:   accesses=100000, diskreads=100000, diskwrites=0
+32788 ms
+Clock Buffer Manager: accesses=100000, diskreads=100000, diskwrites=0
+33290.2 ms
+
+Benchmark 2: random access with a hot set
+LRU Buffer Manager:   accesses=100000, diskreads=26283, diskwrites=0
+9024.65 ms
+Clock Buffer Manager: accesses=100000, diskreads=28873, diskwrites=0
+10137.1 ms

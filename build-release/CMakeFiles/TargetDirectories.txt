@@ -1,0 +1,5 @@
+/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-release/CMakeFiles/buffer_manager.dir
+/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-release/CMakeFiles/benchmark.dir
+/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-release/CMakeFiles/submit.dir
+/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-release/CMakeFiles/edit_cache.dir
+/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-release/CMakeFiles/rebuild_cache.dir

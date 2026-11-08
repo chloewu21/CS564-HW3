@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-release",
+  "command": "/usr/bin/c++ -I\"/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/include\" -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/buffer_manager.dir/src/status.cpp.o -c \"/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/status.cpp\"",
+  "file": "/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/status.cpp",
+  "output": "CMakeFiles/buffer_manager.dir/src/status.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-release",
+  "command": "/usr/bin/c++ -I\"/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/include\" -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/buffer_manager.dir/src/file.cpp.o -c \"/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/file.cpp\"",
+  "file": "/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/file.cpp",
+  "output": "CMakeFiles/buffer_manager.dir/src/file.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-release",
+  "command": "/usr/bin/c++ -I\"/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/include\" -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/buffer_manager.dir/src/buffer_manager.cpp.o -c \"/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/buffer_manager.cpp\"",
+  "file": "/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/buffer_manager.cpp",
+  "output": "CMakeFiles/buffer_manager.dir/src/buffer_manager.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-release",
+  "command": "/usr/bin/c++ -I\"/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/include\" -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/buffer_manager.dir/src/clock_buffer_manager.cpp.o -c \"/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/clock_buffer_manager.cpp\"",
+  "file": "/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/clock_buffer_manager.cpp",
+  "output": "CMakeFiles/buffer_manager.dir/src/clock_buffer_manager.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-release",
+  "command": "/usr/bin/c++ -I\"/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/include\" -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/buffer_manager.dir/src/lru_buffer_manager.cpp.o -c \"/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/lru_buffer_manager.cpp\"",
+  "file": "/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/lru_buffer_manager.cpp",
+  "output": "CMakeFiles/buffer_manager.dir/src/lru_buffer_manager.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/build-release",
+  "command": "/usr/bin/c++ -I\"/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/benchmark/include\" -I\"/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/src/include\" -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/benchmark.dir/benchmark/benchmark.cpp.o -c \"/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/benchmark/benchmark.cpp\"",
+  "file": "/mnt/c/Users/chloe/UW-Madison/CS 564/HW3/benchmark/benchmark.cpp",
+  "output": "CMakeFiles/benchmark.dir/benchmark/benchmark.cpp.o"
+}
+]
